@@ -1,0 +1,39 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+}
+section{
+  width: 50%;
+  border: 2px red solid;
+  float: right;
+  height: 50%;
+}
+#eron{
+  width: 31.6%;
+}
+
+div{
+  border: 2px yellow solid;
+  
+}
+div h2{
+  padding-left: 100px;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
